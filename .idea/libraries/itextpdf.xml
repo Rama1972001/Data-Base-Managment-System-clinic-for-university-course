@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="itextpdf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hospital-management-system-master/lib/itextpdf/itextpdf-5.3.5.jar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hospital-management-system-master/lib/itextpdf/itextpdf-5.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
